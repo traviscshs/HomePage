@@ -40,3 +40,43 @@ body
 {
     width: 100%;
 }
+.vid
+{
+    width: 100%;
+    height: 0;
+    position: relative;
+    padding-bottom: 56.25%; 
+}
+.vid iframe{
+    top:0;
+    left:0;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.cols
+{
+    margin-bottom: 2%;
+}
+.MS h3
+{
+    padding: 2%;
+    text-align: center;
+    background-color: #ffffff;
+    font-weight: 700;
+    margin-bottom: 0;
+}
+.Benefits   
+{
+    background-color: #ffffff;
+    margin-bottom: 0;
+    padding: 2% 12%;
+}
+.Benefits li
+{
+    font-size: 1.25rem;
+}
+.img3
+{
+    width: 100%;
+}
