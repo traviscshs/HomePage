@@ -70,7 +70,7 @@ body
 {
     background-color: #ffffff;
     margin-bottom: 0;
-    padding: 2% 12%;
+    padding: 2%;
 }
 .Benefits li
 {
@@ -79,4 +79,11 @@ body
 .img3
 {
     width: 100%;
+}
+@media (max-width:500px)
+{
+    .firstPage
+    {
+        padding-top: 20%;
+    }
 }
